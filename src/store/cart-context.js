@@ -8,4 +8,4 @@ const CartContext = React.createContext({
  removeItem:(id)=>{}
 })
 
-export default CartContext
+export default CartContext;
